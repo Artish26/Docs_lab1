@@ -1,0 +1,139 @@
+{
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\ansi-styles\\license"
+  },
+  "cliui@8.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/cliui",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\cliui",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\cliui\\LICENSE.txt"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\color-convert",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\color-convert\\LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\color-name",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\color-name\\LICENSE"
+  },
+  "emoji-regex@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "escalade@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/escalade",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\escalade",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\escalade\\license"
+  },
+  "get-caller-file@2.0.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/stefanpenner/get-caller-file",
+    "publisher": "Stefan Penner",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\get-caller-file",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\get-caller-file\\LICENSE.md"
+  },
+  "is-fullwidth-code-point@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\is-fullwidth-code-point",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\is-fullwidth-code-point\\license"
+  },
+  "lab1@1.0.0": {
+    "licenses": "ISC",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1"
+  },
+  "require-directory@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/troygoode/node-require-directory",
+    "publisher": "Troy Goode",
+    "email": "troygoode@gmail.com",
+    "url": "http://github.com/troygoode/",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\require-directory",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\require-directory\\LICENSE"
+  },
+  "string-width@4.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\string-width",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\string-width\\license"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\strip-ansi\\license"
+  },
+  "wrap-ansi@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\wrap-ansi",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\wrap-ansi\\license"
+  },
+  "y18n@5.0.8": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/y18n",
+    "publisher": "Ben Coe",
+    "email": "bencoe@gmail.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\y18n",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\y18n\\LICENSE"
+  },
+  "yargs-parser@21.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/yargs-parser",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\yargs-parser",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\yargs-parser\\LICENSE.txt"
+  },
+  "yargs@17.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/yargs/yargs",
+    "path": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\yargs",
+    "licenseFile": "C:\\Users\\artem\\OneDrive\\Desktop\\study\\doki\\lab1\\node_modules\\yargs\\LICENSE"
+  }
+}
